@@ -1,1 +1,1 @@
-require("eduardo-exists")
+require("ed_config")

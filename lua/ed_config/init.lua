@@ -1,2 +1,2 @@
-require("eduardo-exists.packer")
-require("eduardo-exists.remap")
+require("ed_config.packer")
+require("ed_config.remap")
